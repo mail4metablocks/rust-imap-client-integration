@@ -1,18 +1,18 @@
 
 
-#IMAP Client
+# IMAP Client
 
 This is a IMAP client written in Rust. It can connect to an IMAP server and authenticate using a username and password.
 
-##Requirements
+## Requirements
 
     Rust 1.46 or later
 
-##Building
+## Building
 
 To build the client, run cargo build in the root directory of the project.
 
-##Running
+## Running
 
 ```
 To run the client, use the following command:
